@@ -1,0 +1,1000 @@
+  381  sudo netstat -l -n -p | grep authdaemond
+  382  cat /usr/lib/sasl2/smtpd.conf
+  383  netstat -tap
+  384  which authdaemond
+  385  /etc/init.d/courier-authlib restart
+  386  sudo /etc/init.d/courier-authlib restart
+  387  sudo dpkg -i | grep courier
+  388  sudo dpkg -l | grep courier
+  389  sudo tail -f /var/log/maillog 
+  390  clear
+  391  ls /var/qmail/maildirs/
+  392  sudo gedit /var/log/mail.log
+  393  sudo gedit /etc/bind/named.conf
+  394  sudo gedit /etc/libuser.conf 
+  395  history > history4.txt
+  396  clear
+  397  su
+  398  sudo su
+  399  sdk list
+  400  exit
+  401  mysql -root -p
+  402  clear
+  403  sudo apt-get update
+  404  clear
+  405  sudo apt-get install mysql-server
+  406  sudo apt-get update --fix-missing
+  407  sudo apt-get install mysql-server && mysql_secure_installation
+  408  mysql -u root -p
+  409  cd Documentos/wildfly-10.0.0.Final/
+  410  cd bin/
+  411  ls
+  412  sudo su
+  413  exit
+  414  sudo apt-get update
+  415  ping google.com
+  416  mysql -u root -p
+  417  clear
+  418  df
+  419  dd --help
+  420  dd --version
+  421  clear
+  422  man(cron)
+  423  man(crontab)
+  424  man cron
+  425  man crontab
+  426  clear
+  427  sudo su
+  428  ping google.com -DA
+  429  sudo apt-get update
+  430  ls
+  431  ll history.txt
+  432  ping google.com -DA
+  433  df -h
+  434  df -h /dev/sda1
+  435  clear
+  436  df -h /dev/sda1
+  437  clear
+  438  df -h /dev/sda1
+  439  clear
+  440  df -h /dev/sda1
+  441  clear
+  442  df -h /dev/sda1
+  443  clear
+  444  df -h /dev/sda1
+  445  ping googgle.com 
+  446  df -h /dev/sda1
+  447  clear
+  448  df -h /dev/sda1
+  449  ping google.com
+  450  cls
+  451  clear
+  452  uname -a
+  453  clear
+  454  ls
+  455  sudo apt-get update
+  456  clear
+  457  sudo apt-get upgrade
+  458  clear
+  459  top
+  460  sudo kill -9 31637
+  461  clear
+  462  sudo apt-get update
+  463  history
+  464  sudo /etc/init.d/apache2 restart
+  465  sudo /etc/init.d/apache2 stop
+  466  top
+  467  sudo kill -9 9981
+  468  ping google.com
+  469  ifconfig
+  470  nslooukup 148.215.24.22
+  471  nslookup 148.215.24.22
+  472  mysql -u root -p
+  473  clear
+  474  mysql -u root -p
+  475  ls /media/
+  476  ls /media/redalyc/
+  477  df -h /media/redalyc/FREEAGENT/
+  478  clear
+  479  mysql -u root -p
+  480  exit
+  481  netstat -anpt | grep 1099
+  482  netstat -anpt
+  483  ping localhost:1099
+  484  ping jnp://localhost:1099
+  485  ping jnp:localhost:1099
+  486  clear
+  487  sudo netstat -tlnp
+  488  cd /etc/csf
+  489  mysql -u root -p
+  490  show tables;
+  491  mysql -u root -p
+  492  df -h
+  493  df -h /dev/sda
+  494  df -h /dev/sda1
+  495  clear
+  496  df -h /dev/sda1
+  497  cls
+  498  clear
+  499  df -h /dev/sda1
+  500  ls /etc/apache2/
+  501  ls /etc/apache2/sites-available/
+  502  gedit /etc/apache2/sites-available/awstats.conf 
+  503  sudo service apache2 start
+  504  ls /etc/apache2/sites-available/
+  505  ls /etc/apache2/
+  506  clear
+  507  ls /etc/apache2/
+  508  gedit /etc/apache2/ports.conf 
+  509  gedit /etc/apache2/sites-available/
+  510  ls /etc/apache2/sites-available/
+  511  gedit /etc/apache2/sites-available/awstats.conf 
+  512  gedit /etc/apache2/sites-available/000-default.conf 
+  513  sudo service apache2 stop
+  514  clear
+  515  history
+  516  df -h /dev/sda1
+  517  ping google.com -DA
+  518  df -h /dev/sda1
+  519  ping google.com -DA
+  520  gedit 
+  521  clear
+  522  df -h /dev/sda1
+  523  ping google.com -DA
+  524  netstat -an
+  525  clear
+  526  netstat
+  527  clear
+  528  mysql -u root -p
+  529  exit
+  530  sudo apt-get update 
+  531  sudo apt-get upgrade
+  532  cls
+  533  sdk list
+  534  clear
+  535  ping google.com -D
+  536  ls /media/
+  537  ls /media/redalyc/
+  538  clear
+  539  ls /media/redalyc/
+  540  clear
+  541  ls /media/redalyc/
+  542  ld /dev/sdf
+  543  clear
+  544  ls /dev/sdf
+  545  df -h /dev/sdf
+  546  ping google.com -D
+  547  clear
+  548  man lsof
+  549  who
+  550  ls -u redalyc
+  551  ls
+  552  lsof -u redalyc
+  553  clear
+  554  lsof -u redalyc
+  555  lsof -1 4
+  556  lsof -i 4
+  557  lsof -i 6
+  558  clear
+  559  top
+  560  lsof -p 2793
+  561  clear
+  562  ls /lib/i386-linux-gnu/libaudit.so.1
+  563  lsof -t /lib/i386-linux-gnu/libaudit.so.1
+  564  lsof -i
+  565  sudo apt-get update
+  566  sudo apt-get install rar unrar
+  567  clear
+  568  cd Descargas/
+  569  clear
+  570  ls
+  571  tar -xjf rarcrack-0.2.tar.bz2 
+  572  ls
+  573  cd rarcrack-0.2/
+  574  ls
+  575  make
+  576  sudo make install
+  577  sudo apt-get update
+  578  sudo apt-get install libxml2
+  579  sudo apt autoremove
+  580  sudo apt-get install libxml2
+  581  make
+  582  sudo make install
+  583  sudo apt-get xml-core 
+  584  sudo apt-get install xml-core 
+  585  clear
+  586  cd ..
+  587  ls
+  588  pwd
+  589  cd Escritorio/
+  590  ls
+  591  cd Respaldo/
+  592  ls
+  593  cd respaldo53
+  594  ls
+  595  cd NuevoSpringMVCCurso/
+  596  ls
+  597  unrar Spring Framework. Desarrollo de Aplicaciones Web Java.part01.rar
+  598  unrar x -r Spring Framework. Desarrollo de Aplicaciones Web Java.part01.rar
+  599  clear
+  600  ls
+  601  unrar x -r *.*
+  602  cd ..
+  603  ls
+  604  clear
+  605  ifconfig
+  606  clear
+  607  exit
+  608  sudo apt-get update && sudo apt-get upgrade
+  609  clear
+  610  uname -a
+  611  man crontab
+  612  ls /etc/
+  613  ls /etc/crontab 
+  614  gedit /etc/crontab 
+  615  clear
+  616  su
+  617  sudo su
+  618  dpkg -l | grep ssh
+  619  clear
+  620  history
+  621  ifconfig
+  622  exit
+  623  awk 'BEGIN {var=3;if(var<2) print Hola;else print Adios}'
+  624  awk 'BEGIN {var=3;if(var<2) print 1; else print 0}'
+  625  cls
+  626  clear
+  627  exit
+  628  whereis apache2
+  629  sudo service apache2 start
+  630  fierefox http://localhost
+  631  firefox http://localhost
+  632  sudo service apache2 stop
+  633  exit
+  634  ifconfig
+  635  sudo apt-get update && sudo apt-get upgrade
+  636  mysql -u root -p
+  637  whereis mysql
+  638  cat /etc/mysql/my.cnf
+  639  cat /etc/mysql/conf.d/
+  640  ls /etc/mysql/conf.d/
+  641  strings /etc/mysql/conf.d/mysql.cnf
+  642  cat /etc/mysql/my.cnf
+  643  nano /etc/mysql/my.cnf
+  644  clear && /etc/mysql/
+  645  ls /etc/mysql/
+  646  cat /etc/mysql/my.cf
+  647  cat /etc/mysql/my.cnf
+  648  cat /etc/mysql/mysql.cnf 
+  649  sudo apt-get update && sudo apt-get upgrade
+  650  sudo apt autoremove
+  651  exit
+  652  ping google.com -A
+  653  sudo apt-get update && sudo apt-get upgrade
+  654  sudo apt-get update
+  655  sudo apt-get install nodejs
+  656  sudo apt-get install npm
+  657  nodejs -v
+  658  sudo apt-get install build-essential libssl-dev
+  659  cd Documentos/
+  660  cd NodeJS/
+  661  ls
+  662  node app.js 
+  663  nodejs app.js 
+  664  exit
+  665  npm -v
+  666  nodejs -v
+  667  ls
+  668  sudo apt-get update && sudo apt-get upgrade
+  669  clear
+  670  ls
+  671  cd Documentos/
+  672  ls
+  673  cd NodeJS/
+  674  ls
+  675  cat app.js 
+  676  ls
+  677  nodejs app.js 
+  678  cls
+  679  clear
+  680  ls
+  681  nmp ls -g 
+  682  nmp -v
+  683  nodejs -v
+  684  npm -v
+  685  npm ls -g 
+  686  clear
+  687  suso apt-get update
+  688  sudo apt-get update
+  689  npm install -g typescript
+  690  sudo npm install -g typescript
+  691  npm ls -g 
+  692  tsc -v
+  693  clear
+  694  nodejs -v
+  695  clear
+  696  tsc --version
+  697  sudo apt-get update
+  698  sudo apt-get install build-essential libssl-dev
+  699  curl -sL https://raw.githubusercontent.com/creationix/nvm/v0.33.8/install.sh -o install_nvm.sh
+  700  nano install_nvm.sh
+  701  bash install_nvm.sh
+  702  source ~/.profile
+  703  nvm ls-remote
+  704  nvm install 8.9.4
+  705  nvm use 8.9.4
+  706  node -v
+  707  nvm ls
+  708  nvm alias default 8.9.4
+  709  nvm use default
+  710  sudo apt-get remove nodejs
+  711  sudo apt-get purge nodejs
+  712  sudo apt autoremove
+  713  tsc --version
+  714  uname -a
+  715  ls
+  716  tsc greeter.ts 
+  717  ls
+  718  node greeter.js 
+  719  clear
+  720  exit
+  721  ls
+  722  cd src/
+  723  ls
+  724  cd ..
+  725  tsc src/tipos-basicos/tipos-basicos.ts 
+  726  ls src/tipos-basicos/
+  727  node src/tipos-basicos/tipos-basicos.js 
+  728  clear
+  729  node dist/tipos-basicos.js
+  730  clear
+  731  ls
+  732  ./mvnw spring-boot:run
+  733  sudo chmod 777 mvnw
+  734  ls
+  735  ./mvnw spring-boot:run
+  736  clear
+  737  ./mvnw spring-boot:run
+  738  ng serve
+  739  ng serve
+  740  ng -v
+  741  npm install rxjs-compat --save 
+  742  ng serve
+  743  clear
+  744  ng g c car-edit
+  745  npm install @okta/okta-angular@1.0.0
+  746  ng g c home
+  747  ng serve
+  748  cd Documentos/
+  749  ls
+  750  cd NodeJS/
+  751  ls
+  752  tsc nodo.ts 
+  753  ls *js
+  754  node nodo.js 
+  755  mvn -v
+  756  clear
+  757  cd ..
+  758  cd testSpring/
+  759  cd App/
+  760  ls
+  761  mysql -u root -p
+  762  sudo apt-get update
+  763  sudo apt-get upgrade
+  764  clear
+  765  sudo npm install -g @angular/cli
+  766  node -v
+  767  npm -
+  768  nmp -v
+  769  node -v
+  770  npm -v
+  771  npm install -g @angular/cli
+  772  npm ls -g
+  773  clear
+  774  ng --version
+  775  clear
+  776  ls
+  777  cd client/
+  778  ls
+  779  npm install --save-exact @angular/material@5.2.4 @angular/cdk@5.2.4
+  780  ng g s car
+  781  mkdir -p src/app/shared/car
+  782  sudo mv src/app/car.service.* src/app/shared/car/.
+  783  ls
+  784  ng g c car-list
+  785  cd ..
+  786  ls
+  787  mysql -u root -p
+  788  ls
+  789  ./mvnw spring-boot:run
+  790  clear
+  791  ./mvnw spring-boot:run
+  792  mysql -u root -p
+  793  ./mvnw spring-boot:run
+  794  clear
+  795  sudo apt-get update
+  796  sdk list
+  797  sudo apt-get upgrade
+  798  exit
+  799  ls
+  800  clear
+  801  cd ..
+  802  ls
+  803  ping google.com -DA
+  804  cklear
+  805  clear
+  806  ifconfig
+  807  ping google.com -DA
+  808  ifconfig
+  809  nslookup 148.215.24.18
+  810  clear
+  811  uname -a
+  812  sudo apt-get update
+  813  echo "deb http://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/3.2 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.2.list
+  814  sudo apt-get update
+  815  gpg --keyserver keyserver.ubuntu.com --recv 61E091672E206FF0
+  816  gpg --export --armor 61E091672E206FF0 | sudo apt-key add -
+  817  echo "deb http://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/3.2 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.2.list
+  818  sudo apt-get update
+  819  sudo apt-get install -y mongodb-org
+  820  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv EA312927
+  821  echo "deb http://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/3.2 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.2.list
+  822  sudo apt-get update
+  823  sudo apt-get install -y mongodb-org
+  824  clear
+  825  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv EA312927
+  826  echo "deb [ arch=amd64,arm64 ] http://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/3.4 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.4.list
+  827  sudo apt-get update
+  828  sudo apt-get install -y mongodb-org
+  829  sudo apt-get install mongodb-org
+  830  sudo apt-get install -y --allow-unauthenticated mongodb-org
+  831  sudo apt-get update
+  832  sudo apt install mongodb-server
+  833  clear
+  834  nano /etc/
+  835  nano /etc/mongodb.conf 
+  836  clear
+  837  ls
+  838  mongo
+  839  ping google.com -DA
+  840  clear
+  841  gradle -v
+  842  sdk list
+  843  sdk update
+  844  sdk update
+  845  mongo
+  846  cd Descargas/
+  847  ls
+  848  cd ..
+  849  ping google.com -DA
+  850  mongo
+  851  clear
+  852  sudo apt-get update
+  853  clear
+  854  python -V
+  855  sudo apt-get install python-django
+  856  clear
+  857  django-admin --version
+  858  python
+  859  cd Documentos/
+  860  ls
+  861  cd testDjango/
+  862  ls
+  863  clear
+  864  django-admin startproject sitio
+  865  ls
+  866  python manage.py runserver
+  867  ls
+  868  cd sitio/
+  869  python manage.py runserver
+  870  python manage.py migrate
+  871  python manage.py runserver
+  872  clear
+  873  history
+  874  sudo apt-get update
+  875  sudo apt-get install git
+  876  git config --global user.name "HIRONAKAMURA"
+  877  git config --global user.email "carraro.ariel@gmail.com"
+  878  git config --list
+  879  sudo nano ~/.gitconfig
+  880  cd Documentos/
+  881  cd testSpring/
+  882  cd proyecto/
+  883  clear
+  884  ls
+  885  git add build.gradle 
+  886  ssh-keygen -t rsa -C "carraro.ariel@gmail.com"
+  887  exit
+  888  mysql -u root -p
+  889  cd Documentos/
+  890  ls
+  891  cd testDjango/
+  892  ls
+  893  clear
+  894  python manage.py startapp blog
+  895  ls
+  896  python manage.py makemigrations blog
+  897  python manage.py migrate blog
+  898  python manage.py runserver
+  899  python manage.py createsuperuser
+  900  python manage.py runserver
+  901  ls
+  902  exit
+  903  cd Documentos/
+  904  cd testDjango/
+  905  ls
+  906  cd sitio/
+  907  ls
+  908  python manage.py shell
+  909  clear
+  910  ls
+  911  python manage.py runserver
+  912  pwd
+  913  ls
+  914  clear && ls
+  915  clear && pwd
+  916  ls
+  917  git init
+  918  git config user.name HIRONAKAMURA
+  919  git config user.name carraro.ariel@gmail.com
+  920  git status
+  921  git add --all .
+  922  git commit -m "Comenzando con Django, primer commit"
+  923  git status
+  924  clear
+  925  git remote add origin https://github.com/HiroNakamura/fer-blog.git
+  926  git push -u origin master
+  927  pip install whitenoise
+  928  pip install --upgrade pip
+  929  sudo pip install --upgrade pip
+  930  sudo pip install whitenoise
+  931  clear
+  932  ls
+  933  python manage.py runserver
+  934  clear
+  935  ls
+  936  history
+  937  python manage.py runserver
+  938  pwd
+  939  clear
+  940  history
+  941  git status
+  942  git add -all .
+  943  git add --all .
+  944  git status
+  945  git add --all .
+  946  git commit -m "Agregar carpeta static"
+  947  git status
+  948  git push
+  949  git status
+  950  git push --hrlp
+  951  git push --help
+  952  git push --all .
+  953  git status
+  954  git add --all .
+  955  git commit -m "Agregar carpeta static"
+  956  clear*
+  957  clear
+  958  git add --all .
+  959  git status
+  960  git push
+  961  git pull
+  962  git status
+  963  git add blog/static/*
+  964  git commit -m "Carpeta static"
+  965  git status
+  966  git push
+  967  git commit -m "Carpeta static"
+  968  history
+  969  tree sitio
+  970  clear
+  971  history
+  972  clear
+  973  python manage.py runserver
+  974  clear
+  975  python manage.py runserver
+  976  git status
+  977  git add --all .
+  978  git status
+  979  git commit -m "Varios cambios"
+  980  git push
+  981  python manage.py shell
+  982  clear
+  983  python manage.py runserver
+  984  clear
+  985  git status
+  986  git add --all .
+  987  git status
+  988  git commit -m "Cambios"
+  989  git push
+  990  python manage.py runserver
+  991  sudo apt-get update
+  992  sudo apt-get upgrade
+  993  clear
+  994  python manage.py runserver
+  995  clear
+  996  git status
+  997  git add --all .
+  998  git status
+  999  git commit -m "Css añadido"
+ 1000  git push
+ 1001  clear
+ 1002  git status
+ 1003  clear
+ 1004  python manage.py runserver
+ 1005  top
+ 1006  python manage.py runserver
+ 1007  ls
+ 1008  clear
+ 1009  ls
+ 1010  git status
+ 1011  git add --all .
+ 1012  git status
+ 1013  git commit -m "Nada agregado"
+ 1014  git push
+ 1015  clear
+ 1016  python manage.py runserver
+ 1017  clear
+ 1018  python manage.py runserver
+ 1019  clear
+ 1020  git status
+ 1021  git add --all .
+ 1022  git status
+ 1023  git commit -m "Cambios en CSS"
+ 1024  git push
+ 1025  clear
+ 1026  python
+ 1027  clear
+ 1028  python -V
+ 1029  python
+ 1030  clear
+ 1031  python
+ 1032  python -c "import this"
+ 1033  clear
+ 1034  ls
+ 1035  git status
+ 1036  git add --all .
+ 1037  git status
+ 1038  git commit -m "Cambios en post_list"
+ 1039  git push
+ 1040  clear
+ 1041  git status
+ 1042  git add --all .
+ 1043  git status
+ 1044  git commit -m "Cambios en post_list"
+ 1045  git push
+ 1046  clear
+ 1047  python manage.py runserver
+ 1048  git status
+ 1049  git add --all .
+ 1050  git status
+ 1051  git commit -m "Cambios en post_list"
+ 1052  git push
+ 1053  python manage.py runserver
+ 1054  git status
+ 1055  git add --all .
+ 1056  git status
+ 1057  git commit -m "Cambios en post_list"
+ 1058  git push
+ 1059  python manage.py runserver
+ 1060  git status
+ 1061  git add --all .
+ 1062  git status
+ 1063  git commit -m "Se agrego forms.py"
+ 1064  git push
+ 1065  git status
+ 1066  clear
+ 1067  git status
+ 1068  git add --all .
+ 1069  git status
+ 1070  git commit -m "Se edito base html y urls"
+ 1071  git push
+ 1072  git status
+ 1073  git add --all .
+ 1074  git status
+ 1075  git commit -m "Se creo post edit y modifico views"
+ 1076  git push
+ 1077  clear
+ 1078  git status
+ 1079  git add --all .
+ 1080  git status
+ 1081  git commit -m "Se edito post detail urls y views"
+ 1082  git status
+ 1083  git push
+ 1084  clear
+ 1085  python manage.py runserver
+ 1086  git status
+ 1087  git add --all .
+ 1088  git status
+ 1089  git commit -m "Se edito post detail urls views y forms"
+ 1090  git status
+ 1091  git push
+ 1092  clear
+ 1093  python manage.py runserver
+ 1094  git status
+ 1095  git add --all .
+ 1096  git status
+ 1097  git commit -m "Se edito post detail  views"
+ 1098  git status
+ 1099  git push
+ 1100  python manage.py runserver
+ 1101  clear
+ 1102  python manage.py runserver
+ 1103  clear
+ 1104  python manage.py runserver
+ 1105  git status
+ 1106  git add --all .
+ 1107  git commit -m "Se edito post detail  views"
+ 1108  git status
+ 1109  git push
+ 1110  clear
+ 1111  python manage.py runserver
+ 1112  git status
+ 1113  git add --all .
+ 1114  git commit -m "Se edito txt"
+ 1115  git status
+ 1116  git push
+ 1117  clear
+ 1118  exit
+ 1119  ls
+ 1120  cd Documentos/
+ 1121  testDjango/
+ 1122  ls
+ 1123  cd testDjango/
+ 1124  ls
+ 1125  cd sitio/
+ 1126  ls
+ 1127  git status
+ 1128  clear
+ 1129  exit
+ 1130  cd Documentos/
+ 1131  ls
+ 1132  cd testDjango/
+ 1133  ls
+ 1134  cd sitio/
+ 1135  ls
+ 1136  pyhon manage.py runserver
+ 1137  python manage.py runserver
+ 1138  git status
+ 1139  git add --all .
+ 1140  git status
+ 1141  git commit -m "Cambio a views"
+ 1142  git push
+ 1143  clear
+ 1144  python manage.py runserver
+ 1145  python manage.py shell
+ 1146  python manage.py runserver
+ 1147  git status
+ 1148  git add --all .
+ 1149  git status
+ 1150  git commit -m "Ningun cambio importante"
+ 1151  git push
+ 1152  git status
+ 1153  python manage.py runserver
+ 1154  git status
+ 1155  git add --all .
+ 1156  git status
+ 1157  git commit -m "Cambio a views"
+ 1158  git status
+ 1159  git push
+ 1160  git status
+ 1161  python manage.py runserver
+ 1162  git status
+ 1163  git commit -m "Cambio a views"
+ 1164  git add --all .
+ 1165  git status
+ 1166  git commit -m "Cambio a views"
+ 1167  git status
+ 1168  git push
+ 1169  git status
+ 1170  clear
+ 1171  python
+ 1172  clear
+ 1173  python manage.py shell
+ 1174  python manage.py runserver
+ 1175  clear
+ 1176  git status
+ 1177  git add --all .
+ 1178  git commit -m "Cambio a views"
+ 1179  git status
+ 1180  git push
+ 1181  git status
+ 1182  sudo apt-get update
+ 1183  sudo apt-get upgrade
+ 1184  sudo apt autoremove
+ 1185  clear
+ 1186  python manage.py runserver
+ 1187  clear
+ 1188  python manage.py runserver
+ 1189  clear
+ 1190  python manage.py runserver
+ 1191  clear
+ 1192  python manage.py runserver
+ 1193  clear
+ 1194  python manage.py shell
+ 1195  clear
+ 1196  python manage.py shell
+ 1197  python manage.py runserver
+ 1198  clear
+ 1199  git status
+ 1200  git add --all .
+ 1201  git status
+ 1202  git commit -m "De nuevo un cambio en views"
+ 1203  git push
+ 1204  clear
+ 1205  git status
+ 1206  clear
+ 1207  python manage.py runserver
+ 1208  clear
+ 1209  python manage.py runserver
+ 1210  clear
+ 1211  python manage.py runserver
+ 1212  clear
+ 1213  python manage.py runserver
+ 1214  clear
+ 1215  python manage.py runserver
+ 1216  clear
+ 1217  python manage.py runserver
+ 1218  clear
+ 1219  git status
+ 1220  git add --all .
+ 1221  git status
+ 1222  git commit -m "views editado, cambios a post new"
+ 1223  git push
+ 1224  git status
+ 1225  clear
+ 1226  python manage.py runserver
+ 1227  clear
+ 1228  python manage.py runserver
+ 1229  clear
+ 1230  python manage.py runserver
+ 1231  clear
+ 1232  python manage.py runserver
+ 1233  clear
+ 1234  python manage.py runserver
+ 1235  clear
+ 1236  python manage.py runserver
+ 1237  python manage.py shell
+ 1238  clear
+ 1239  python manage.py runserver
+ 1240  clear
+ 1241  git status
+ 1242  git add --all .
+ 1243  git commit -m "views editado"
+ 1244  git status
+ 1245  git push
+ 1246  clear
+ 1247  git status
+ 1248  clear
+ 1249  python manage.py runserver
+ 1250  clear
+ 1251  git status
+ 1252  git add --all .
+ 1253  git commit -m "Editando views nuevamente"
+ 1254  git status
+ 1255  git push
+ 1256  git status
+ 1257  clear
+ 1258  python manage.py runserver
+ 1259  exit
+ 1260  python manage.py runserver
+ 1261  ls
+ 1262  cd Documentos/
+ 1263  cd testDjango/
+ 1264  ls
+ 1265  cd sitio/
+ 1266  ls
+ 1267  python manage.py runserver
+ 1268  git status
+ 1269  git add --all .
+ 1270  git status
+ 1271  git commit -m "Cambio a base html y css blog"
+ 1272  git push
+ 1273  python manage.py runserver
+ 1274  clear
+ 1275  ls
+ 1276  cd ..
+ 1277  ls
+ 1278  mkdir nuevodirectorio
+ 1279  ls
+ 1280  cd nuevodirectorio/
+ 1281  ls
+ 1282  clear
+ 1283  ls
+ 1284  python -c "import djangp; print(django.get_version())"
+ 1285  python -c "import django; print(django.get_version())"
+ 1286  clear
+ 1287  ls
+ 1288  django-admin startproject nuevositio
+ 1289  ls
+ 1290  ls nuevositio/
+ 1291  ls
+ 1292  cd nuevositio/
+ 1293  ls
+ 1294  ls nuevositio/
+ 1295  ls
+ 1296  clear
+ 1297  python manage.py migrate
+ 1298  clear
+ 1299  python manage.py runserver
+ 1300  python manage.py startapp polls
+ 1301  ls
+ 1302  python manage.py makemigrations polls
+ 1303  python manage.py sqlmigrate polls 0001
+ 1304  python manage.py migrate
+ 1305  exit
+ 1306  ifconfig
+ 1307  ls
+ 1308  cd ..
+ 1309  ls
+ 1310  cd ejemplo/
+ 1311  ls
+ 1312  clear && python manage.py runserver
+ 1313  exit
+ 1314  ping goole.com -D
+ 1315  exit
+ 1316  sudo apt-get update
+ 1317  exit
+ 1318  cd ..
+ 1319  ls
+ 1320  sudo apt-get update && apt-get -y upgrade
+ 1321  sudo su
+ 1322  rvm list known
+ 1323  ruby -v
+ 1324  sudo apt-get update
+ 1325  sudo apt-get install autoconf bison build-essential libssl-dev libyaml-dev libreadline6-dev zlib1g-dev libncurses5-dev libffi-dev libgdbm3 libgdbm-dev
+ 1326  git clone https://github.com/rbenv/rbenv.git ~/.rbenv
+ 1327  echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+ 1328  echo 'eval "$(rbenv init -)"' >> ~/.bashrc
+ 1329  source ~/.bashrc
+ 1330  type rbenv
+ 1331  git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
+ 1332  top
+ 1333  rbenv install -l
+ 1334  rbenv install 2.5.1
+ 1335  rbenv global 2.5.1
+ 1336  ruby -v
+ 1337  echo "gem: --no-document" > ~/.gemrc
+ 1338  gem install bundler
+ 1339  gem env home
+ 1340  gem install rails
+ 1341  gem search '^rails$' --all
+ 1342  rails -v
+ 1343  ls
+ 1344  cd Documentos/
+ 1345  ls
+ 1346  mkdir testRubyOnRails
+ 1347  cd testRubyOnRails/
+ 1348  ls
+ 1349  rails -v
+ 1350  rails new proyecto && cd proyecto
+ 1351  ls
+ 1352  rails server
+ 1353  ls app/
+ 1354  bundle install
+ 1355  cd ..
+ 1356  gem install sqlite3 -v '1.3.13 --source'
+ 1357  gem install sqlite3
+ 1358  clear
+ 1359  cd Documentos/
+ 1360  cd testRubyOnRails/
+ 1361  ls
+ 1362  cd proyecto/
+ 1363  rails server
+ 1364  bundle install
+ 1365  gem install sqlite3
+ 1366  rails server
+ 1367  bundle install
+ 1368  sudo apt-get install libsqlite3-dev
+ 1369  sudo gem install sqlite3-ruby
+ 1370  gem list
+ 1371  gem install sqlite3-ruby
+ 1372  gem list
+ 1373  rails server
+ 1374  gem install uglifier -v '1.3.0'
+ 1375  rails server
+ 1376  gem install turbolinks -v '5'
+ 1377  rails server
+ 1378  gem install web-console -v '3.3.0'
+ 1379  rails server
+ 1380  history > historial.txt
