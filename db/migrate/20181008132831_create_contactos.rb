@@ -10,4 +10,9 @@ class CreateContactos < ActiveRecord::Migration[5.2]
       t.timestamps
     end
   end
+
+  def self.down
+    drop_table :books
+ end
+ 
 end
