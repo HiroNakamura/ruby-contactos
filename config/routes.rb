@@ -1,3 +1,11 @@
 Rails.application.routes.draw do
-  # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
+  get 'contacto/list'
+  get 'contacto/new'
+  post 'contacto/create'
+  patch 'contacto/update'
+  get 'contacto/list'
+  get 'contacto/show'
+  get 'contacto/edit'
+  get 'contacto/delete'
+  get 'contacto/update'
 end
