@@ -1,0 +1,14 @@
+<h1>No. telef&oacute;nico: <%= @contacto.telefono %></h1>
+
+<p>
+   <strong>Nombre: </strong> <%= @contacto.nombre %><br />
+   <strong>Apellidos :</strong> <%= @contacto.apellidos %><br />
+   <strong>Correo :</strong> <%= @contacto.correo %><br />
+   <strong>Creado en:</strong> <%= @contacto.created_at %><br />
+</p>
+
+<p><%= @contacto.direccion %></p>
+
+<hr />
+
+<%= link_to 'Regreso', {:action => 'list'} %>
