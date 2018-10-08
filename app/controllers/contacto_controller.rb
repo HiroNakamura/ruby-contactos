@@ -1,5 +1,6 @@
 class ContactoController < ApplicationController
-
+    layout 'standard'
+    
     def list
         @contactos = Contacto.all
      end
