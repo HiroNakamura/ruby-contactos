@@ -1,0 +1,45 @@
+<% if @contactos.blank? %>
+<p>No hay contactos.</p>
+<% else %>
+<p>Hay contactos</p>
+
+
+
+<table align="center" border="1" >
+        <thead >
+            <tr>
+                <th>Nombre</th>
+                <th>Apellidos</th>
+                <th>Telefono</th>
+                <th>Correo</th>
+                <th>Direccion</th>
+            </tr>
+        </thead>
+        <tbody>
+        <% @contactos.each do |c| %>
+            <tr>
+                <td>
+                <%= link_to c.nombre, {:action => 'show', :id => c.id} -%>
+                </td>
+                <td>
+            <%= c.apellidos %>
+            </td>
+            <td>
+            <%= c.telefono %>
+            </td>
+            <td>
+            <%= c.correo %>
+            </td>
+            <td>
+            <%= c.direccion %>
+            </td>
+            </tr>
+        <% end %>
+        </tbody>
+</table>
+
+
+
+
+<% end %>
+<p><%= link_to "Agregar nuevo contacto", {:action => 'new' }%></p>
