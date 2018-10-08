@@ -12,7 +12,7 @@ class CreateContactos < ActiveRecord::Migration[5.2]
   end
 
   def self.down
-    drop_table :books
+    drop_table :contactos
  end
- 
+
 end
