@@ -11,6 +11,8 @@
                 <th>Telefono</th>
                 <th>Correo</th>
                 <th>Direccion</th>
+                <th></th>
+                <th></th>
             </tr>
         </thead>
         <tbody>
@@ -30,6 +32,16 @@
             </td>
             <td>
             <%= c.direccion %>
+            </td>
+            <td>
+            <b> 
+            <%= link_to 'Editar', {:action => "edit", :id => c.id} %>
+            </b>
+            </td>
+            <td>
+            <b>
+             <%= link_to "Borrar", {:action => 'delete', :id => c.id},:confirm => "Seguro en eliminar?" %>
+             </b>
             </td>
             </tr>
         <% end %>

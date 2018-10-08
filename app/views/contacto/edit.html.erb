@@ -1,0 +1,14 @@
+<h1>Editar contacto</h1>
+
+<%= form_for @contacto, :url =>{:action => "update", :id =>@contacto} do |f| %>
+
+<p>Nombre: <%= f.text_field 'nombre' %></p>
+<p>Apellidos: <%= f.text_field  'apellidos' %></p>
+<p>Tel&eacute;fono: <%= f.text_field  'telefono' %></p>
+<p>Correo: <%= f.text_field  'correo' %></p>
+<p>Direcci&oacute;n<br/>
+<%= f.text_area 'direccion' %></p>
+<%= f.submit "Guardar cambios" %>
+<% end %>
+
+<%= link_to 'Regreso', {:action => 'list' } %>
